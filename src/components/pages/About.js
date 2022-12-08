@@ -1,17 +1,26 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faUserCircle } from '@fortawesome/free-solid-svg-icons'
 
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+    <div class="container">
+      
+      <h2>About Me</h2>
+      <br></br>
+      <div class="display-3"><FontAwesomeIcon icon={faUserCircle} /> </div>
+      <br></br>
+      <blockquote class="blockquote">
+        <p>I am analytical, purposeful, and curious.</p>
+        <p>I serve in the Michigan Air National Guard in Equal Opportunity, and I work at Synchrony Bank in Application Security.  One of my main interests is learning about the impact of technology on culture and vice versa.</p>
+      </blockquote>
+      <blockquote class="blockquote">
+        <p>“Design is really an act of communication, which means having a deep understanding of the person with whom the designer is communicating.”</p>
+      </blockquote>
+      <figcaption class="blockquote-footer">
+        Donald A. Norman <cite title="Source Title">The Design of Everyday Things</cite>
+      </figcaption>
+  
     </div>
   );
 }
