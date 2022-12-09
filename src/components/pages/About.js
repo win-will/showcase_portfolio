@@ -2,11 +2,17 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUserCircle } from '@fortawesome/free-solid-svg-icons'
 
+const styles = {
+  bodyHeight: {
+    height: '475px'
+  },
+};
+
 export default function About() {
   return (
-    <div class="container">
+    <div class="container" style={styles.bodyHeight}>
       
-      <h2>About Me</h2>
+      {/* <h2>About Me</h2> */}
       <br></br>
       <div class="display-3"><FontAwesomeIcon icon={faUserCircle} /> </div>
       <br></br>
