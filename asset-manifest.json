@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/showcase_portifolio/static/css/main.bf3410e9.css",
-    "main.js": "/showcase_portifolio/static/js/main.abcfde0d.js",
-    "static/media/weatherDashboard.png": "/showcase_portifolio/static/media/weatherDashboard.8c257f3aa04629b8f98f.png",
-    "static/media/simpleCalendar.png": "/showcase_portifolio/static/media/simpleCalendar.72b2369d9b5340dcdb9a.png",
-    "static/media/passwordGenerator.png": "/showcase_portifolio/static/media/passwordGenerator.e7a18b865df0d976bcb7.png",
-    "static/media/jsQuiz.png": "/showcase_portifolio/static/media/jsQuiz.ff2e97b883da10ecb80d.png",
-    "index.html": "/showcase_portifolio/index.html",
-    "main.bf3410e9.css.map": "/showcase_portifolio/static/css/main.bf3410e9.css.map",
-    "main.abcfde0d.js.map": "/showcase_portifolio/static/js/main.abcfde0d.js.map"
+    "main.css": "/static/css/main.bf3410e9.css",
+    "main.js": "/static/js/main.0509ffa5.js",
+    "static/media/weatherDashboard.png": "/static/media/weatherDashboard.8c257f3aa04629b8f98f.png",
+    "static/media/simpleCalendar.png": "/static/media/simpleCalendar.72b2369d9b5340dcdb9a.png",
+    "static/media/passwordGenerator.png": "/static/media/passwordGenerator.e7a18b865df0d976bcb7.png",
+    "static/media/jsQuiz.png": "/static/media/jsQuiz.ff2e97b883da10ecb80d.png",
+    "index.html": "/index.html",
+    "main.bf3410e9.css.map": "/static/css/main.bf3410e9.css.map",
+    "main.0509ffa5.js.map": "/static/js/main.0509ffa5.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3410e9.css",
-    "static/js/main.abcfde0d.js"
+    "static/js/main.0509ffa5.js"
   ]
 }
