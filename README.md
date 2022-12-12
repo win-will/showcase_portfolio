@@ -44,6 +44,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+The following a mockup for this application.
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
+![User can click through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./assets/images/mockup.png)
