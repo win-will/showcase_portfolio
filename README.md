@@ -44,6 +44,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock-Up
 
-The following a mockup for this application.
+The following is a mockup for this application.
 
-![User can click through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./assets/images/mockup.png)
+![A user can click through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./assets/images/mockup.png)
